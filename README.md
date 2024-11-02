@@ -1,16 +1,17 @@
-# tosbi
+# Tosbi App
 
-Tosbi App
+This app is a simple tosbi count app.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Save Tosbis
+- Dark theme
+- Multi-Language support
+- Responsive
+- Small size
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![TOSBI APP UI](https://github.com/user-attachments/assets/8846c265-87c9-464f-8ffd-d9c9940dd2dc)
+
