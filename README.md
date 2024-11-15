@@ -5,10 +5,11 @@ This app is a simple tosbi count app.
 ## Features
 
 - Save Tosbis
+- 99 names of Allah
 - Dark theme
-- Multi-Language support
+- Multi-Language support (Bangla & English)
 - Responsive
-- Small size
+- Small app size
 
 
 ## UI
